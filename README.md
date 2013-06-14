@@ -12,7 +12,7 @@ When using promises, you can `throw` these errors directly to have the error han
 
 ## Usage:
 
-```
+``` js
 // Some page controller middleware
 var HttpErrors = require('http-errors');
 
