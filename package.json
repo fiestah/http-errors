@@ -1,0 +1,19 @@
+{
+  "name": "http-errors",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A handy JavaScript Error object replacement for HTTP endpoints",
+  "main": "errors.js",
+  "scripts": {
+    "test": "mocha test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fiestah/http-errors"
+  },
+  "author": "Marvin Tam <marvin@fiestah.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.11.0"
+  }
+}
